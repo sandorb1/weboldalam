@@ -1,10 +1,33 @@
 table{
     margin: auto;
+    background-color:  #7c61c0;
     border-radius: 10px;
     padding: 20px;
     width: 100px;
     height: 50px;
-    border: transparent;
-    border: 2px solid;
-    border-color: aliceblue;
+    background: transparent;
+    border:  2px solid rgba(255, 255, 255, .2);
+    color: aliceblue;
+}
+body{
+    background-image: url(hatter.jpg);
+    
+}
+nav{
+    border-radius:  40px;
+    border: none;
+    outline: none;
+    text-align: right;
+}
+a{
+    color: white;
+   text-decoration: none;
+   cursor:pointer;
+ 
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
 }
