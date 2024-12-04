@@ -5,4 +5,7 @@ table{
     padding: 20px;
     width: 100px;
     height: 50px;
+    border: transparent;
+    border: 2px solid;
+    border-color: aliceblue;
 }
