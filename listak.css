@@ -2,7 +2,7 @@ body{
     background-image: url(img/lila.jpg);
     background-repeat: no-repeat;
 }
-h1,h2,ul,ol{
+h1,h2,ul,ol,li{
     color: #b9b5be;
     text-align: center;
 }
