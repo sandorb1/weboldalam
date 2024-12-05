@@ -12,6 +12,7 @@ table{
 }
 body{
     background-image: url(img/hatter.jpg);
+    background-repeat: no-repeat;
 
 }
 nav{
