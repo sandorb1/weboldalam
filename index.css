@@ -1,20 +1,16 @@
 body{
-background-color: #7c61c0;
-
+    background-image: url(img/lila.jpg);
+    background-repeat: no-repeat;
 }
 h1{
     color: #b9b5be;
     text-align: center;
 }
 nav{
-    color: #ADA3C6;
-    font-style: italic;
-    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
 }
-table{
-    background-color:  #5C33C4;
-    border-radius: 10px;
-    padding: 20px;
-    width: 100px;
-    height: 50px;
+a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
 }
