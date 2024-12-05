@@ -1,5 +1,5 @@
 body{
-    background-image: url(img/lila.jpg);
+    background-image: url(img/en.jpg);
     background-repeat: no-repeat;
 }
 h1{
@@ -13,4 +13,31 @@ a{
     color: white;
     text-decoration: none;
     cursor: pointer;
+    
+}
+
+h2{
+    color: #b9b5be;
+    text-align: left;
+    text-transform: capitalize;
+    cursor: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+}
+p{
+    color: #b9b5be;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+   
+   
+
+
+}
+div{
+    background-color: transparent;
+    border: #b9b5be solid 2px;
+    border-radius: 10px;
+    padding: 20px;
+  min-width: 100px;
+  max-width: min-content;
 }
