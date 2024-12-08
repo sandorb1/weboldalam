@@ -1,8 +1,8 @@
 body{
-    background-image: url(img/lila.jpg);
+    background-image: url(../img/lila.jpg);
     background-repeat: no-repeat;
 }
-h1{
+h1,ul,ol,li{
     color: #b9b5be;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
@@ -42,3 +42,20 @@ div{
   min-width: 100px;
   max-width: min-content;
 }
+table{
+    margin: auto;
+    background-color: #7c61c0;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100px;
+    height: 50px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    color: aliceblue;
+
+}
+img{
+    border: 5px solid white;
+    width: 300px;
+    height: 250px;
+ }
