@@ -39,8 +39,7 @@ div{
     border: #b9b5be solid 2px;
     border-radius: 10px;
     padding: 20px;
-  min-width: 100px;
-  max-width: min-content;
+  
 }
 table{
     margin: auto;
