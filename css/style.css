@@ -61,3 +61,15 @@ table{
  ul,ol,li{
     color: #b9b5be;
 }
+#iskola{
+    float: right;
+    border: 4px solid purple;
+    width: 400px;
+    height: 350px;
+}
+#iskola2{
+    float: left;
+    border: 4px solid purple;
+    width: 400px;
+    height: 350px;
+}
