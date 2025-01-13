@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
 }
 h1{
-    color: #b9b5be;
+    color: white;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -18,7 +18,7 @@ a{
 }
 
 h2{
-    color: #b9b5be;
+    color: white;
     text-align: left;
     text-transform: capitalize;
     cursor: none;
@@ -26,7 +26,7 @@ h2{
     font-size:large;
 }
 p{
-    color: #b9b5be;
+    color: white;
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
    
@@ -36,7 +36,7 @@ p{
 }
 div{
     background-color: transparent;
-    border: #b9b5be solid 2px;
+    border: white solid 2px;
     border-radius: 10px;
     padding: 20px;
   
@@ -59,7 +59,7 @@ table{
     height: 250px;
  }
  ul,ol,li{
-    color: #b9b5be;
+    color: white;
 }
 #iskola{
     float: right;
